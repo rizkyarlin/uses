@@ -12,6 +12,8 @@ For Front-end web
 # Frameworks
 ## Laravel
 Laravel my go to for backend development. I was questiong PHP when there are lot of things going on in other languages until I found Laravel and it was a game changer. 
+### Packages
+TBA
 ## Django
 Doing legacy project on django
 ## React
@@ -19,6 +21,9 @@ I'm specializing in Backend but sometimes I jump in to help my React Devs
 
 #  Servers & CI/CD Tools
 ## Github Actions
+## Redis
+## MySQL
+## PostgreSQL
 ## Digital Ocean
 - Droplet
 ## Docker
