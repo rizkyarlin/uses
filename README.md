@@ -13,9 +13,16 @@ For Front-end web
 ## Laravel
 Laravel my go to for backend development. I was questiong PHP when there are lot of things going on in other languages until I found Laravel and it was a game changer. 
 ### Packages
-TBA
+https://github.com/barryvdh/laravel-debugbar
+https://github.com/lorisleiva/laravel-deployer
+https://github.com/laravel/horizon
+https://github.com/laravel/valet
+https://github.com/barryvdh/laravel-ide-helper
+https://github.com/Jeroen-G/Laravel-Packager
+https://github.com/ARCANEDEV/LogViewer
+https://github.com/spatie/laravel-backup
 ## Django
-Doing legacy project on django
+Doing legacy codebase on django
 ## React
 I'm specializing in Backend but sometimes I jump in to help my React Devs
 
